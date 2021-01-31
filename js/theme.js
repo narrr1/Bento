@@ -43,3 +43,4 @@ if (hour >= 19 || hour < 5) {
 } else {
     disableDark();
 }
+};
